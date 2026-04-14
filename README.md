@@ -1,16 +1,94 @@
-# React + Vite
+# 🎯 Quizuro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Currently, two official plugins are available:
+Quizuro is a simple interactive quiz web application built with React.  
+It allows users to answer multiple-choice questions, track scores, and review results in a smooth UI experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Live Demo
+👉 https://quizuro.vercel.app (replace with your actual link)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- Vite
+- CSS
+- React Router (if used)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Features
+- 🎯 Multiple-choice quiz system  
+- 📊 Score tracking  
+- 🧠 Question review system  
+- ⚡ Fast and responsive UI  
+- 🔄 Component-based architecture  
+
+---
+
+## 📁 Project Structure
+src/
+├── components/
+├── assets/
+├── api/
+├── App.jsx
+├── main.jsx
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/waxgaby2/Quizuro.git
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Run the app
+```bash
+npm run dev
+```
+### 📦 Build for production
+```bash
+npm run build
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using Vercel.
+
+👉 https://quizuro-react.vercel.app
+
+---
+
+## 💡 Future Improvements
+
+- Add user authentication
+- Add leaderboard system
+- Store scores in database
+- Add timer per question
+- Improve UI animations
+
+---
+
+## 👨‍💻 Author
+
+Abolaji Timothy (waxgaby)
+GitHub: https://github.com/waxgaby2
+
+
+
+
+
+
